@@ -1,0 +1,9 @@
+# First subdirectory
+misc-functions/.vs/
+misc-functions/Debug
+misc-functions/misc-functions.sln
+# Second subdirectory
+misc-functions/misc-functions/Debug
+misc-functions/misc-functions/misc-functions.vcxproj
+misc-functions/misc-functions/misc-functions.vcxproj.filters
+misc-functions/misc-functions/misc-functions.vcxproj.user
